@@ -1,6 +1,6 @@
 # Winedata Analysis
 
-This project comprises of calculating the mean, median and mode for different classes of the alcohol.
+This project comprises of calculating the mean, median and mode of flavanoids and gamma for different classes of the alcohol.
 
 ## Flavanoids Data
 ![plot](./src/images/flavanoids.png)
